@@ -2,6 +2,7 @@
 DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features
 
 # Dataset
+```
 /data 
 
   /dataset's name 
@@ -19,7 +20,7 @@ DeepCrackAT: An effective crack segmentation framework based on learning multi-s
       ...
       
     train.txt
-      
+```    
 
 # Train and Test
 ```
