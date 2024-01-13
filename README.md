@@ -2,6 +2,7 @@
 DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features
 
 # Dataset
+You can update your own data as:
 ```
 /data 
   /dataset's name 
