@@ -1,0 +1,3 @@
+data/Masonry_val/train/a_0_10be.jpg data/Masonry_val/train_mask/a_0_10be.jpg
+data/Masonry_val/train/a_0_10fl.jpg data/Masonry_val/train_mask/a_0_10fl.jpg
+

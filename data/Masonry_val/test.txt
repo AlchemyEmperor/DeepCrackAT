@@ -1,0 +1,2 @@
+data/Masonry_val/test/a_141_7be.jpg data/Masonry_val/test_mask/a_141_7be.jpg
+

@@ -1,0 +1,3 @@
+data/Masonry_val/val/a_0_37be.jpg data/Masonry_val/val_mask/a_0_37be.jpg
+data/Masonry_val/val/a_0_37fl.jpg data/Masonry_val/val_mask/a_0_37fl.jpg
+
