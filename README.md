@@ -2,14 +2,22 @@
 DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features
 
 # Dataset
-/data \\
-  /dataset's name \\
+/data 
+
+  /dataset's name 
+  
     /train
+    
       111.jpg
+      
       ...
+      
     /train_mask
+    
       111.jpg
+      
       ...
+      
     train.txt
       
 
