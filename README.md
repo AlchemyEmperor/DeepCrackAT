@@ -1,7 +1,7 @@
 # DeepCrackAT
 DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features
 
-# Reference
+### Reference
 @article{lin2023deepcrackat,
   title={DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features},
   author={Lin, Qinghua and Li, Wei and Zheng, Xiangpan and Fan, Haoyi and Li, Zuoyong},
