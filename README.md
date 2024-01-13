@@ -24,7 +24,7 @@ You can update your own data as:
 run train.py or test.py
 ```
 
-### Citation
+# Citation
 If you use this code for your research, please cite our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623010606).
 ```
 @article{lin2023deepcrackat,
