@@ -25,7 +25,7 @@ run train.py or test.py
 ```
 
 ### Citation
-If you use this code for your research, please cite our [paper](https://arxiv.org/pdf/2007.15651).
+If you use this code for your research, please cite our [paper]([https://arxiv.org/pdf/2007.15651](https://www.sciencedirect.com/science/article/abs/pii/S0952197623010606)).
 ```
 @article{lin2023deepcrackat,
   title={DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features},
