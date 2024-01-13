@@ -1,8 +1,9 @@
 # DeepCrackAT
 DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features
-<center>
-<img src="Overview.png" width="550px"/>
-</center>
+
+<p align="center">
+  <img src="Overview.png" width="550px"/>
+</p>
 
 # Dataset
 You can update your own data as:
